@@ -1,0 +1,12 @@
+﻿  MultiTool.cpp
+C:\Users\prost\source\repos\MultiTool\MultiTool\MultiTool.cpp(17,32): warning C4566: символ, представленный универсальным именем символа "\u2588", невозможно представить в текущей кодовой странице (1251)
+C:\Users\prost\source\repos\MultiTool\MultiTool\MultiTool.cpp(18,32): warning C4566: символ, представленный универсальным именем символа "\u2588", невозможно представить в текущей кодовой странице (1251)
+C:\Users\prost\source\repos\MultiTool\MultiTool\MultiTool.cpp(19,32): warning C4566: символ, представленный универсальным именем символа "\u2588", невозможно представить в текущей кодовой странице (1251)
+C:\Users\prost\source\repos\MultiTool\MultiTool\MultiTool.cpp(20,32): warning C4566: символ, представленный универсальным именем символа "\u2588", невозможно представить в текущей кодовой странице (1251)
+C:\Users\prost\source\repos\MultiTool\MultiTool\MultiTool.cpp(21,32): warning C4566: символ, представленный универсальным именем символа "\u2588", невозможно представить в текущей кодовой странице (1251)
+  Создание кода
+  47 of 224 functions (21.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MultiTool.vcxproj -> C:\Users\prost\source\repos\MultiTool\x64\Release\MultiTool.exe

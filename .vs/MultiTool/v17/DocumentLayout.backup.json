@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prost\\source\\repos\\MultiTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE46C5CA-422B-45D3-B1D5-2F5560CBF431}|MultiTool\\MultiTool.vcxproj|C:\\Users\\prost\\source\\repos\\MultiTool\\MultiTool\\MultiTool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE46C5CA-422B-45D3-B1D5-2F5560CBF431}|MultiTool\\MultiTool.vcxproj|solutionrelative:MultiTool\\MultiTool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultiTool.cpp",
+              "DocumentMoniker": "C:\\Users\\prost\\source\\repos\\MultiTool\\MultiTool\\MultiTool.cpp",
+              "RelativeDocumentMoniker": "MultiTool\\MultiTool.cpp",
+              "ToolTip": "C:\\Users\\prost\\source\\repos\\MultiTool\\MultiTool\\MultiTool.cpp",
+              "RelativeToolTip": "MultiTool\\MultiTool.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T19:07:00.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
